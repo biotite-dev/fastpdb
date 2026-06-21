@@ -10,6 +10,8 @@
 A high performance drop-in replacement for *Biotite*'s ``PDBFile``
 written in *Rust*.
 
+**NOTE:** ``fastpdb`` is integrated into `biotite <https://github.com/biotite-dev/biotite>`_ now and this repository has been archived.
+
 Installation
 ------------
 
